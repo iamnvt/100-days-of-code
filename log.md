@@ -9,3 +9,10 @@ Not this time!
 
 **Link to work:** 
 
+### Day 2: November, 29th, 2020
+
+**Today's Progress**: learn f string, operations, round
+
+**Thoughts:** I learnt this earlier. Just review a bit; quite straight forward. Keep it up!
+
+**Link to work:** 
